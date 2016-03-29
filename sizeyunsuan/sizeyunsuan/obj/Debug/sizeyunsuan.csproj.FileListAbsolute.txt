@@ -1,0 +1,2 @@
+E:\JAVA\sizeyunsuan\sizeyunsuan\bin\Debug\sizeyunsuan.exe.config
+E:\JAVA\sizeyunsuan\sizeyunsuan\obj\Debug\sizeyunsuan.csprojResolveAssemblyReference.cache
